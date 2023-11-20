@@ -1,10 +1,8 @@
-
->pkg upgrade
-> pkg update
-> apt update
-> apt upgrade
-> apt install python2 -y
-> apt install git -y
-> git clone https://github.com/IBROHIM-anakRosmini/T4MPILAN-V5
-> cd T4MPILAN-V5
-> python2 style5.py
+1 pkg update && pkg upgrade
+2 pkg install python3
+3 pkg install git
+4 pip install requests
+5 pip install rich
+6 git clone https://github.com/IBROHIM-anakRosmini
+7 cd IBROHIM-anakRosmini
+8 python3 spam_brutal.py
