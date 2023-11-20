@@ -1,7 +1,7 @@
-mengubah tampilan termux menjadi keren
 
 
-pkg upgrade
+
+>pkg upgrade
 > pkg update
 > apt update
 > apt upgrade
