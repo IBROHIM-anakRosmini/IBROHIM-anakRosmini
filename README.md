@@ -1,6 +1,4 @@
 
-
-
 >pkg upgrade
 > pkg update
 > apt update
